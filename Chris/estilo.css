@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: pink;
+}
+header{
+    text-align: center;
+    color: #E871AE;
+    font-size: 4em;
+    text-shadow: .01em .01em .01em black;
+    font-family: fantasy;
+}
+img{
+    height: 560px;
+    width: 560px;
+    box-shadow: 1em 1em 1em #953939;
+    margin-top: 7em;
+    border-radius: 100%;
+}
