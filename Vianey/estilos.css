@@ -1,0 +1,42 @@
+
+#header{
+    color:white;
+    text-align: center;
+    background: black;    
+}
+    
+.logo{
+    width: 400px;
+    height: 300px;
+}
+#contenedor{
+    background:url(imagenes/leon.jpg);
+    width: 1479px;
+    height: 800px;
+    background-size: cover;
+    margin-bottom: auto;
+    border-radius:50px;
+    display: block;
+}
+article{
+ margin-left: 50px;
+}
+article img{
+    
+    height: 300px;
+    border:5px solid #d3d3d3;
+    margin-left: 90px;
+    text-align: center;
+    border-radius: 150px;
+   
+}
+p{
+    color:white;
+    font-size: 50px;
+}
+    
+    
+    
+
+
+    
